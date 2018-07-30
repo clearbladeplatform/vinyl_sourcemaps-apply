@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,vinyl_sourcemaps-apply",
+    "logging_enabled": "false",
+    "name": "vinyl_sourcemaps-applySmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "vinyl_sourcemaps-applySmokeTest.js"
+}
